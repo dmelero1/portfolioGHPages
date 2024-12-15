@@ -7,3 +7,11 @@ Estoy siguiendo mi modelo creado en Figma [DiseñoFigma](https://www.figma.com/d
 ### Mis páginas estarán disponibles en las siguientes URLs:
 
 [Página Principal](https://dmelero1.github.io/portfolioGHPages/)
+
+[Página About](https://dmelero1.github.io/portfolioGHPages/about.html)
+
+[Página Skills](https://dmelero1.github.io/portfolioGHPages/skill.html)
+
+[Página Projects](https://dmelero1.github.io/portfolioGHPages/project.html)
+
+[Página Contact](https://dmelero1.github.io/portfolioGHPages/contact.html)
